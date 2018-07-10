@@ -14,4 +14,4 @@
 **Thoughts** : It was quite challenging to find the right caches in the back propagation but I made that work and learned a lot during the process. I will visit it back on July 10th, 2018 to get myself familiar with the different help functions.
 
 
-**Link of Work:**   [Deeplearningassignment](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
+**Link of Work:**   [Deep learning assignment 1st specilization week 4](https://github.com/reisd/100daysMLChallenge/tree/master/Day%201)
