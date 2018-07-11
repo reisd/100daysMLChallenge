@@ -9,9 +9,19 @@
 
 ## Day 1 : Jul 9 , 2018
 
-**Today's Progress** : I have completed Andrew's DL Week 4 assignments.
+**Today's Progress** : I have completed Andrew's DL 1st course - Week 4 assignments.
 
 **Thoughts** : It was quite challenging to find the right caches in the back propagation but I made that work and learned a lot during the process. I will visit it back on July 10th, 2018 to get myself familiar with the different help functions.
 
 
 **Link of Work:**   [Deep learning assignment 1st specilization week 4](https://github.com/reisd/100daysMLChallenge/tree/master/Day%201)
+
+
+## Day 2 : Jul 10 , 2018
+
+**Today's Progress** : I have watched the three videos of 2nd course week 1.
+
+**Thoughts** : The videos were easy to understand and hope I can use some of them in real project.
+
+
+**Link of Work:**   Evernote notebook
