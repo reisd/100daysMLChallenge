@@ -24,4 +24,13 @@
 **Thoughts** : The videos were easy to understand and hope I can use some of them in real project.
 
 
-**Link of Work:**   Evernote notebook
+**Link of Work:**   Personal Evernote notebook
+
+## Day 3 : Jul 11 , 2018
+
+**Today's Progress** : I have five regularization videos of 2nd course week 1 and learned three different ways to prevent overfitting.
+
+**Thoughts** : I would like to see how I can implement this in python tomorrow's exercises and future projects!
+
+
+**Link of Work:**   Personal Evernote notebook
