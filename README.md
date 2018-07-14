@@ -34,3 +34,23 @@
 
 
 **Link of Work:**   Personal Evernote notebook
+
+## Day 4 : Jul 12 , 2018
+
+**Today's Progress** : I have six videos of 2nd course week 1 and learned the ways of how to set up for optimization and finished the quiz!
+
+**Thoughts** : I am ready to work on the assignment.
+
+
+**Link of Work:**   Personal Evernote notebook
+
+
+## Day 4 : Jul 13 , 2018
+
+**Today's Progress** : I finished initialized part hands-on exercises.
+
+**Thoughts** : initializing parameters make a lot of differences. I planned to do all the hands-on exericses but I am too tired now so I will spend more time learning tomorrow since tomorrow is saturday!!!
+
+
+**Link of Work:**   Will update it later.
+
