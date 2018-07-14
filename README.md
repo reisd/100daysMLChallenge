@@ -45,7 +45,7 @@
 **Link of Work:**   Personal Evernote notebook
 
 
-## Day 4 : Jul 13 , 2018
+## Day 5 : Jul 13 , 2018
 
 **Today's Progress** : I finished initialized part hands-on exercises.
 
