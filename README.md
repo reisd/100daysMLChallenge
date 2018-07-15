@@ -47,7 +47,7 @@
 
 ## Day 5 : Jul 13 , 2018
 
-**Today's Progress** : I finished initialized part hands-on exercises.
+**Today's Progress** : I finished initialization part hands-on exercises.
 
 **Thoughts** : initializing parameters make a lot of differences. I planned to do all the hands-on exericses but I am too tired now so I will spend more time learning tomorrow since tomorrow is saturday!!!
 
@@ -55,3 +55,10 @@
 **Link of Work:**   [Initilization](https://github.com/reisd/100daysMLChallenge/tree/master/day%205)
 
 
+## Day 6 : Jul 14 , 2018
+
+**Today's Progress** : I finished rest of hands-on exercises in week 1 and watched two videos of week 2.
+
+**Thoughts** : Hands-on exercises are well designed and I know how to apply those regularization skills now. I am thinking to find some time in this week to review the codes before because I was focusing on solving the problems as fast as I can. I decided to finish this specilization as soon as I can and then start to work on Kaggle projects. Tomorrow is Sunday and at least I would like to get week 2 done.
+
+**Link of Work:**   [Regularization](https://github.com/reisd/100daysMLChallenge/tree/master/Day%206)
