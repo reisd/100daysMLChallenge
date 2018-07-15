@@ -52,5 +52,6 @@
 **Thoughts** : initializing parameters make a lot of differences. I planned to do all the hands-on exericses but I am too tired now so I will spend more time learning tomorrow since tomorrow is saturday!!!
 
 
-**Link of Work:**   Will update it later.
+**Link of Work:**   [Initilization](https://github.com/reisd/100daysMLChallenge/tree/master/day%205)
+
 
