@@ -62,3 +62,12 @@
 **Thoughts** : Hands-on exercises are well designed and I know how to apply those regularization skills now. I am thinking to find some time in this week to review the codes before because I was focusing on solving the problems as fast as I can. I decided to finish this specilization as soon as I can and then start to work on Kaggle projects. Tomorrow is Sunday and at least I would like to get week 2 done.
 
 **Link of Work:**   [Regularization](https://github.com/reisd/100daysMLChallenge/tree/master/Day%206)
+
+
+## Day 7 : Jul 15 , 2018
+
+**Today's Progress** : I watched all of week 2's videos and passed the quiz.
+
+**Thoughts** : Optimization techniques will be very useful. I look forward to using it in hands-on assignment, kaggle competition projects or projects in work!! Working on the videos and exercises during the weekend needs lots of disciplines but I am glad I made it tonight! Hopefully I can finish course 2 and course 3 in the next coming week!
+
+**Link of Work:**   Personal Evernote notebook
