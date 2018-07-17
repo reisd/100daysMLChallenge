@@ -81,4 +81,10 @@
 
 **Link of Work:**  N/A today
 
+## Day 9 : Jul 17 , 2018
 
+**Today's Progress** : I finished the hands-on assignment this morning! Those optimiation methods make a huge difference!
+
+**Thoughts** : LDA for topic modeling is quite interesting. Look forward to using it in the topic analysis.
+
+**Link of Work:**  N/A today
