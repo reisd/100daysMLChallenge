@@ -71,3 +71,14 @@
 **Thoughts** : Optimization techniques will be very useful. I look forward to using it in hands-on assignment, kaggle competition projects or projects in work!! Working on the videos and exercises during the weekend needs lots of disciplines but I am glad I made it tonight! Hopefully I can finish course 2 and course 3 in the next coming week!
 
 **Link of Work:**   Personal Evernote notebook
+
+
+## Day 8 : Jul 16 , 2018
+
+**Today's Progress** : I worked on the hands-on assignment for 30 minutes but could not finish it. Also discussed how to apply LDA to our real project with my friends.
+
+**Thoughts** : LDA for topic modeling is quite interesting. Look forward to using it in the topic analysis.
+
+**Link of Work:**  N/A today
+
+
