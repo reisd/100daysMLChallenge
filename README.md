@@ -88,3 +88,13 @@
 **Thoughts** : LDA for topic modeling is quite interesting. Look forward to using it in the topic analysis.
 
 **Link of Work:**  N/A today
+
+## Day 10 : Jul 18 , 2018
+
+**Today's Progress** : I watched three videos late night. I stopped at fourth video because I am just so tired now. Need to rest.
+
+**Thoughts** : Hyperparameter tuning process doesn't seem fun.
+
+**Link of Work:**  Personal evernote notebook
+
+**Plan for Tomorrow** : Watch all the videos in Week 3 of Class 2 and finish the quiz
