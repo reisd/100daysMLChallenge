@@ -93,7 +93,7 @@
 
 **Today's Progress** : I watched three videos late night. I stopped at fourth video because I am just so tired now. Need to rest.
 
-**Thoughts** : Hyperparameter tuning process doesn't seem fun.
+**Thoughts** : Hyperparameter tuning process doesn't seem fun. I sacrificed Machine learning study time for an'critical' and 'urgent' task so I thought I could find another time to watch it but... I was doing other stuff and came back at home 10:10 PM. I was able to study for 40ish minutes but not efficient at all! Lessons learned - NEVER compromise GOLDEN morning Machine learning time.
 
 **Link of Work:**  Personal evernote notebook
 
