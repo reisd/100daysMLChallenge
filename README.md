@@ -26,6 +26,7 @@
 
 **Link of Work:**   Personal Evernote notebook
 
+
 ## Day 3 : Jul 11 , 2018
 
 **Today's Progress** : I have five regularization videos of 2nd course week 1 and learned three different ways to prevent overfitting.
@@ -35,12 +36,12 @@
 
 **Link of Work:**   Personal Evernote notebook
 
+
 ## Day 4 : Jul 12 , 2018
 
 **Today's Progress** : I have six videos of 2nd course week 1 and learned the ways of how to set up for optimization and finished the quiz!
 
 **Thoughts** : I am ready to work on the assignment.
-
 
 **Link of Work:**   Personal Evernote notebook
 
@@ -81,6 +82,7 @@
 
 **Link of Work:**  N/A today
 
+
 ## Day 9 : Jul 17 , 2018
 
 **Today's Progress** : I finished the hands-on assignment this morning! Those optimiation methods make a huge difference!
@@ -88,6 +90,7 @@
 **Thoughts** : LDA for topic modeling is quite interesting. Look forward to using it in the topic analysis.
 
 **Link of Work:**  N/A today
+
 
 ## Day 10 : Jul 18 , 2018
 
@@ -98,3 +101,21 @@
 **Link of Work:**  Personal evernote notebook
 
 **Plan for Tomorrow** : Watch all the videos in Week 3 of Class 2 and finish the quiz
+
+
+## Day 11 : Jul 19 , 2018
+
+**Today's Progress** : I read two articles of LDA and implemented LDA to one of the projects but the result is not I wanted.
+
+**Thoughts** : LDA is cool model. Look forward to using it in a right project.
+
+**Link of Work:**  [LDA](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2011%20-%20LDA)
+
+
+## Day 12 : Jul 20 , 2018
+
+**Today's Progress** : I watched all the videos in class 2 and finished tensorflow assignments!
+
+**Thoughts** : Tensorflow is a magic. One line of code can do all the back propagation...
+
+**Link of Work:**  [Tensorflow](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2011%20-%20Tensorflow)
