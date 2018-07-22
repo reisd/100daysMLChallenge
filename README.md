@@ -119,3 +119,14 @@
 **Thoughts** : Tensorflow is a magic. One line of code can do all the back propagation...
 
 **Link of Work:**  [Tensorflow](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2012%20-%20TensorFlow)
+
+
+
+## Day 13 : Jul 21 , 2018
+
+**Today's Progress** : I watched all the videos week 2 of class 3 and finished the quiz.
+
+**Thoughts** : I think this class quite useful when I start to apply NN to real life. And it is a good summary of things I learned before and how it is related together.
+
+**Link of Work:**  Personal Ever notebook
+
