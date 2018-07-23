@@ -124,9 +124,17 @@
 
 ## Day 13 : Jul 21 , 2018
 
-**Today's Progress** : I watched all the videos week 2 of class 3 and finished the quiz.
+**Today's Progress** : I watched all the videos week 1 of class 3 and finished the quiz.
 
 **Thoughts** : I think this class quite useful when I start to apply NN to real life. And it is a good summary of things I learned before and how it is related together.
 
 **Link of Work:**  Personal Ever notebook
 
+
+## Day 14 : Jul 22 , 2018
+
+**Today's Progress** : I watched all the videos week 2 of class 3 and finished the quiz.
+
+**Thoughts** : I learned a lot of strategy things in deep learning projects and lots of tips I can use in the future projects! Andrew is so awesome! He can explain these complex things in a quite easy way!
+
+**Link of Work:**  Personal Ever notebook
