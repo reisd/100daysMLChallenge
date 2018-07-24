@@ -138,3 +138,12 @@
 **Thoughts** : I learned a lot of strategy things in deep learning projects and lots of tips I can use in the future projects! Andrew is so awesome! He can explain these complex things in a quite easy way!
 
 **Link of Work:**  Personal Ever notebook
+
+
+## Day 15 : Jul 23 , 2018
+
+**Today's Progress** : I kind of forgot how SVM functions in details so I watched three long videso of SVM but still can't 100% understand it.
+
+**Thoughts** : I will do an exercises early tomorrow morning.
+
+**Link of Work:**  N/A
