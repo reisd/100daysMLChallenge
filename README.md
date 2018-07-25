@@ -155,4 +155,4 @@
 
 **Thoughts** : Cool concept.
 
-**Link of Work:**  [SVM1]https://github.com/reisd/100daysMLChallenge/tree/master/Day%2016%20-SVM(Siraj)
+**Link of Work:**  [SVM1](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2016%20-SVM(Siraj))
