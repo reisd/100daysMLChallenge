@@ -128,7 +128,7 @@
 
 **Thoughts** : I think this class quite useful when I start to apply NN to real life. And it is a good summary of things I learned before and how it is related together.
 
-**Link of Work:**  Personal Ever notebook
+**Link of Work:**  Personal Evernote notebook
 
 
 ## Day 14 : Jul 22 , 2018
@@ -137,7 +137,7 @@
 
 **Thoughts** : I learned a lot of strategy things in deep learning projects and lots of tips I can use in the future projects! Andrew is so awesome! He can explain these complex things in a quite easy way!
 
-**Link of Work:**  Personal Ever notebook
+**Link of Work:**  Personal Evernote notebook
 
 
 ## Day 15 : Jul 23 , 2018
@@ -147,3 +147,12 @@
 **Thoughts** : I will do an exercises early tomorrow morning.
 
 **Link of Work:**  N/A
+
+
+## Day 16 : Jul 24 , 2018
+
+**Today's Progress** : I followed Siraj's videos and implemented SVM.
+
+**Thoughts** : Cool concept.
+
+**Link of Work:**  [SVM1]https://github.com/reisd/100daysMLChallenge/tree/master/Day%2016%20-SVM(Siraj)
