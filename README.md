@@ -156,3 +156,12 @@
 **Thoughts** : Cool concept.
 
 **Link of Work:**  [SVM1](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2016%20-SVM(Siraj))
+
+
+## Day 17 : Jul 25 , 2018
+
+**Today's Progress** : I watched Andrew's videos and read a blog about SVM and I am still in progress of implementing SVM using Sklearn package.
+
+**Thoughts** : A lot of things I need to learn matplotlib and sklearn.
+
+**Link of Work:**  Update it later tomorrow or so
