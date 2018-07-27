@@ -171,6 +171,6 @@
 
 **Today's Progress** : I implemented SVM algorithms using sklearn package and did some research on matplotlib.
 
-**Thoughts** : It is almost 12 am...
+**Thoughts** : It is almost 12 am. I found that it would very challenging to work on ML challenge if I don't find a time in morning to work on ML and I have other things planned during the night. Morning is golden time. Anyway, Keep it up!
 
 **Link of Work:**  Update it later tomorrow or so
