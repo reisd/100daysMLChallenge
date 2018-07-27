@@ -165,3 +165,12 @@
 **Thoughts** : A lot of things I need to learn matplotlib and sklearn.
 
 **Link of Work:**  Update it later tomorrow or so
+
+
+## Day 18 : Jul 26 , 2018
+
+**Today's Progress** : I implemented SVM algorithms using sklearn package and did some research on matplotlib.
+
+**Thoughts** : It is almost 12 am...
+
+**Link of Work:**  Update it later tomorrow or so
