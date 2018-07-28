@@ -164,7 +164,7 @@
 
 **Thoughts** : A lot of things I need to learn matplotlib and sklearn.
 
-**Link of Work:**  Update it later tomorrow or so
+**Link of Work:**  [SVM-Sklearn](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2017-18%20SVM%20using%20Scikit-learn)
 
 
 ## Day 18 : Jul 26 , 2018
@@ -173,4 +173,4 @@
 
 **Thoughts** : It is almost 12 am. I found that it would very challenging to work on ML challenge if I don't find a time in morning to work on ML and I have other things planned during the night. Morning is golden time. Anyway, Keep it up!
 
-**Link of Work:**  Update it later tomorrow or so
+**Link of Work:**  [SVM-Sklearn](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2017-18%20SVM%20using%20Scikit-learn)
