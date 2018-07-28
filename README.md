@@ -174,3 +174,12 @@
 **Thoughts** : It is almost 12 am. I found that it would very challenging to work on ML challenge if I don't find a time in morning to work on ML and I have other things planned during the night. Morning is golden time. Anyway, Keep it up!
 
 **Link of Work:**  [SVM-Sklearn](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2017-18%20SVM%20using%20Scikit-learn)
+
+
+## Day 19 : Jul 27 , 2018
+
+**Today's Progress** : Did additional research on SVM and got start to learn CNN to refresh my memory
+
+**Thoughts** : Again, I compromised morning time to one of projects I am working on because I need to deliver it by morning but I could find some time tonight to work on the challenge. CNN is FUN!
+
+**Link of Work:**  N/A
