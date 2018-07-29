@@ -183,3 +183,11 @@
 **Thoughts** : Again, I compromised morning time to one of projects I am working on because I need to deliver it by morning but I could find some time tonight to work on the challenge. CNN is FUN!
 
 **Link of Work:**  N/A
+
+## Day 20 : Jul 28 , 2018
+
+**Today's Progress** : Watched first week of videos regarding to CNN
+
+**Thoughts** : Andrew is just so amazing!!! I have a way better understanding on CNN now.
+
+**Link of Work:**  Personal Evernote Notebook
