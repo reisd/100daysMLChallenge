@@ -184,6 +184,7 @@
 
 **Link of Work:**  N/A
 
+
 ## Day 20 : Jul 28 , 2018
 
 **Today's Progress** : Watched first week of videos regarding to CNN
@@ -191,3 +192,13 @@
 **Thoughts** : Andrew is just so amazing!!! I have a way better understanding on CNN now.
 
 **Link of Work:**  Personal Evernote Notebook
+
+
+## Day 21 : Jul 29 , 2018
+
+**Today's Progress** : Worked on TD-IDF, K-means algorithms
+
+**Thoughts** : 
+
+**Link of Work:**  [K-means](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2021%20-%20K-means-Siraj)
+[TF-IDF](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2021%20-%20TF-IDF)
