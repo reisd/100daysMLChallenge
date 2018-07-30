@@ -10,3 +10,6 @@ I log everyday's progress in [here.](https://github.com/reisd/100daysMLChallenge
 1. Andrew Deep learning specilization course # 4- CNN
 2. Machine learning Book
 
+## Plan
+1. One Kaggle project
+2. Cover most of major ML/DL projects
