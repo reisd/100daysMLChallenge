@@ -198,7 +198,7 @@
 
 **Today's Progress** : Worked on TD-IDF, K-means algorithms
 
-**Thoughts** : 
+**Thoughts** : It is good to work on some exercises and fresh my memory on TD-IDF and K-means
 
 **Link of Work:**  [K-means](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2021%20-%20K-means-Siraj)
 [TF-IDF](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2021%20-%20TF-IDF)
