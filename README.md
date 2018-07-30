@@ -6,3 +6,7 @@ I log everyday's progress in [here.](https://github.com/reisd/100daysMLChallenge
 1. Andrew Deep Learning specilization course #1,2,3
 2. K-means, TF-IDF, SVM, LDA
 
+## Projects or courses in progress
+1. Andrew Deep learning specilization course # 4- CNN
+2. Machine learning Book
+
