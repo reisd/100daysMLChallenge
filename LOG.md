@@ -202,3 +202,12 @@
 
 **Link of Work:**  [K-means](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2021%20-%20K-means-Siraj)
 [TF-IDF](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2021%20-%20TF-IDF)
+
+
+## Day 22 : Jul 30 , 2018
+
+**Today's Progress** : Read an article on word2vector and work on Titanic project
+
+**Thoughts** : End-to-end ML solution exercise is needed.
+
+**Link of Work:**  Will upload it later.
