@@ -210,4 +210,13 @@
 
 **Thoughts** : End-to-end ML solution exercise is needed.
 
-**Link of Work:**  Will upload it later.
+**Link of Work:**  Will upload it when I get the notebook finished.
+
+
+## Day 23 : Jul 31 , 2018
+
+**Today's Progress** : Apply Support Vector machine to Titanic project.
+
+**Thoughts** : I don't know how to export the result to csv from Kaggle kernel so look forward to the score.
+
+**Link of Work:**  Will upload it when I get the notebook finished.
