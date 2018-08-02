@@ -220,3 +220,12 @@
 **Thoughts** : I don't know how to export the result to csv from Kaggle kernel so look forward to the score.
 
 **Link of Work:**  Will upload it when I get the notebook finished.
+
+
+## Day 24 : Aug 1 , 2018
+
+**Today's Progress** : Found a way to publish the kernel and submit the first result. 
+
+**Thoughts** : The result is not bad but I would like to try other algorithms as well. I am thinking to try home credit kaggle project.
+
+**Link of Work:**  Will upload it when I get the notebook finished.
