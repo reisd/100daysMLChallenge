@@ -229,3 +229,12 @@
 **Thoughts** : The result is not bad but I would like to try other algorithms as well. I am thinking to try home credit kaggle project.
 
 **Link of Work:**  Will upload it when I get the notebook finished.
+
+
+## Day 25 : Aug 2 , 2018
+
+**Today's Progress** : Read a kernel of kaggle project.
+
+**Thoughts** : Need to spend more time finishing one sample kernel of the project. Honestly, I couldn't focus on it that well today because I had a long long day. I finished Alteryx and Tableau trainings today.
+
+**Link of Work:** NA
