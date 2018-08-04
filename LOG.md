@@ -238,3 +238,12 @@
 **Thoughts** : Need to spend more time finishing one sample kernel of the project. Honestly, I couldn't focus on it that well today because I had a long long day. I finished Alteryx and Tableau trainings today.
 
 **Link of Work:** NA
+
+
+## Day 26 : Aug 3 , 2018
+
+**Today's Progress** : Contninue read a kernel of kaggle project and do research on the terms and techniques that I don't know.
+
+**Thoughts** : Feel excited to learn all new stuff
+
+**Link of Work:** To upload once I finish the kernel
