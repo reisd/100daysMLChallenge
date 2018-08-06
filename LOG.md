@@ -258,7 +258,7 @@
 **Link of Work:** To upload once I finish the kernel
 
 
-## Day 27 : Aug 5 , 2018
+## Day 28 : Aug 5 , 2018
 
 **Today's Progress** : In mid of EDA 
 
