@@ -247,3 +247,22 @@
 **Thoughts** : Feel excited to learn all new stuff
 
 **Link of Work:** To upload once I finish the kernel
+
+
+## Day 27 : Aug 4 , 2018
+
+**Today's Progress** : Start to implement a kernel and finished the data prep
+
+**Thoughts** : Feels good.
+
+**Link of Work:** To upload once I finish the kernel
+
+
+## Day 27 : Aug 5 , 2018
+
+**Today's Progress** : In mid of EDA 
+
+**Thoughts** : Learned pyplot a lot.
+
+**Link of Work:** To upload once I finish the kernel
+
