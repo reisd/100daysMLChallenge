@@ -246,7 +246,7 @@
 
 **Thoughts** : Feel excited to learn all new stuff
 
-**Link of Work:** To upload once I finish the kernel
+**Link of Work:** [Home Credit Intro](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2026-30%20Kaggle%20Home%20Credit%20Intro)
 
 
 ## Day 27 : Aug 4 , 2018
@@ -255,7 +255,7 @@
 
 **Thoughts** : Feels good.
 
-**Link of Work:** To upload once I finish the kernel
+**Link of Work:** [Home Credit Intro](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2026-30%20Kaggle%20Home%20Credit%20Intro)
 
 
 ## Day 28 : Aug 5 , 2018
@@ -264,9 +264,7 @@
 
 **Thoughts** : Learned pyplot a lot.
 
-**Link of Work:** To upload once I finish the kernel
-
-
+**Link of Work:** [Home Credit Intro](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2026-30%20Kaggle%20Home%20Credit%20Intro)
 
 
 ## Day 29 : Aug 6 , 2018
@@ -276,3 +274,12 @@
 **Thoughts** : feature engineering needs domain expertise. That's why we need business knowledge. Always ask why.
 
 **Link of Work:** To upload once I finish the kernel
+
+
+## Day 30 : Aug 7 , 2018
+
+**Today's Progress** : Used Logistics and Random Forest to train model
+
+**Thoughts** : Scores were not high but I am happy with the current progress
+
+**Link of Work:** [Home Credit Intro](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2026-30%20Kaggle%20Home%20Credit%20Intro)
