@@ -266,3 +266,13 @@
 
 **Link of Work:** To upload once I finish the kernel
 
+
+
+
+## Day 29 : Aug 6 , 2018
+
+**Today's Progress** : Finished EDA and feature Engineering 
+
+**Thoughts** : feature engineering needs domain expertise. That's why we need business knowledge. Always ask why.
+
+**Link of Work:** To upload once I finish the kernel
