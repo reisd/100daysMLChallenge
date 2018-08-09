@@ -287,8 +287,8 @@
 
 ## Day 31 : Aug 8 , 2018
 
-**Today's Progress** : Did some research on d3,flask and feature engineering
+**Today's Progress** : Did some research on d3, flask and feature engineering
 
-**Thoughts** : We can d3 and flask to make a dashboard.
+**Thoughts** : We can d3 and flask to make a dashboard. Will start my own feature engineering from tomorrow!
 
 **Link of Work:** NA
