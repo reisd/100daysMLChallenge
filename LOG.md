@@ -283,3 +283,12 @@
 **Thoughts** : Scores were not high but I am happy with the current progress
 
 **Link of Work:** [Home Credit Intro](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2026-30%20Kaggle%20Home%20Credit%20Intro)
+
+
+## Day 31 : Aug 8 , 2018
+
+**Today's Progress** : Did some research on d3,flask and feature engineering
+
+**Thoughts** : We can d3 and flask to make a dashboard.
+
+**Link of Work:** NA
