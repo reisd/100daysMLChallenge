@@ -292,3 +292,12 @@
 **Thoughts** : We can d3 and flask to make a dashboard. Will start my own feature engineering from tomorrow!
 
 **Link of Work:** NA
+
+
+## Day 32 : Aug 9 , 2018
+
+**Today's Progress** : worked on feature engineering
+
+**Thoughts** : I am curious how feature enginerring can impact the final scores.
+
+**Link of Work:** NA
