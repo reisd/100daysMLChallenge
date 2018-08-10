@@ -273,7 +273,7 @@
 
 **Thoughts** : feature engineering needs domain expertise. That's why we need business knowledge. Always ask why.
 
-**Link of Work:** To upload once I finish the kernel
+**Link of Work:** [Home Credit Intro](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2026-30%20Kaggle%20Home%20Credit%20Intro)
 
 
 ## Day 30 : Aug 7 , 2018
