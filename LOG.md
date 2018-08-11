@@ -300,4 +300,13 @@
 
 **Thoughts** : I am curious how feature enginerring can impact the final scores.
 
-**Link of Work:** NA
+**Link of Work:** Will update soon
+
+
+## Day 33 : Aug 10 , 2018
+
+**Today's Progress** : Keep working on feature engineering
+
+**Thoughts** : A lot of features to add
+
+**Link of Work:** will update soon
