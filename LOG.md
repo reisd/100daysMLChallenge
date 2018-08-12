@@ -310,3 +310,12 @@
 **Thoughts** : A lot of features to add
 
 **Link of Work:** will update soon
+
+
+## Day 34 : Aug 11 , 2018
+
+**Today's Progress** : Keep working on feature engineering and created a function to add features
+
+**Thoughts** : Learned a lot of things that make the codes efficient!
+
+**Link of Work:** will update soon
