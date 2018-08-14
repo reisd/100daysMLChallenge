@@ -319,3 +319,22 @@
 **Thoughts** : Learned a lot of things that make the codes efficient!
 
 **Link of Work:** will update soon
+
+
+## Day 35 : Aug 12 , 2018
+
+**Today's Progress** : Keep working on LightGBM
+
+**Thoughts** : LightGBM is cool!
+
+**Link of Work:** will update soon
+
+
+
+## Day 35 : Aug 13 , 2018
+
+**Today's Progress** : Keep working on LightGBM
+
+**Thoughts** : Will need to spend more time on the algorithm and parameters as well
+
+**Link of Work:** will update soon
