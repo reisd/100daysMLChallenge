@@ -338,3 +338,12 @@
 **Thoughts** : Will need to spend more time on the algorithm and parameters as well
 
 **Link of Work:** will update soon
+
+
+## Day 36 : Aug 14 , 2018
+
+**Today's Progress** : Keep working on LightGBM
+
+**Thoughts** : I am slacking a little bit, could not focus on it that much, but that's fine. I'll find more time tomorrow to work on LightGBM
+
+**Link of Work:** will update soon
