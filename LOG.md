@@ -300,7 +300,7 @@
 
 **Thoughts** : I am curious how feature enginerring can impact the final scores.
 
-**Link of Work:** Will update soon
+**Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
 
 
 ## Day 33 : Aug 10 , 2018
@@ -309,7 +309,7 @@
 
 **Thoughts** : A lot of features to add
 
-**Link of Work:** will update soon
+**Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
 
 
 ## Day 34 : Aug 11 , 2018
@@ -318,7 +318,7 @@
 
 **Thoughts** : Learned a lot of things that make the codes efficient!
 
-**Link of Work:** will update soon
+**Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
 
 
 ## Day 35 : Aug 12 , 2018
@@ -327,7 +327,7 @@
 
 **Thoughts** : LightGBM is cool!
 
-**Link of Work:** will update soon
+**Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
 
 
 
@@ -337,7 +337,7 @@
 
 **Thoughts** : Will need to spend more time on the algorithm and parameters as well
 
-**Link of Work:** will update soon
+**Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
 
 
 ## Day 36 : Aug 14 , 2018
@@ -346,4 +346,13 @@
 
 **Thoughts** : I am slacking a little bit, could not focus on it that much, but that's fine. I'll find more time tomorrow to work on LightGBM
 
-**Link of Work:** will update soon
+**Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
+
+
+## Day 37 : Aug 15 , 2018
+
+**Today's Progress** : Finished the LightGBM code
+
+**Thoughts** : Still haven't fully understand it but feel I am improving everyday
+
+**Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
