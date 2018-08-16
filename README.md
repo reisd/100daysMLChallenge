@@ -11,5 +11,6 @@ I log everyday's progress in [here.](https://github.com/reisd/100daysMLChallenge
 2. Machine learning Book
 
 ## Plan
-1. One Kaggle project
-2. Cover most of major ML/DL projects
+1. Work on Kaggle project
+2. Finish deep learning specilization
+3. Machine learning Book
