@@ -356,3 +356,31 @@
 **Thoughts** : Still haven't fully understand it but feel I am improving everyday
 
 **Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
+
+
+## Day 39 : Aug 16 , 2018
+
+**Today's Progress** : Added some features to lightGBM
+
+**Thoughts** : Need to understand data pretty well...
+
+**Link of Work:** will post later.
+
+
+## Day 39 : Aug 16 , 2018
+
+**Today's Progress** : Play with other person's kernels
+
+**Thoughts** : As the deadline coming up, no insightful kernels are there.
+
+**Link of Work:** NA
+
+
+## Day 40 : Aug 18 , 2018
+
+**Today's Progress** : Play with other person's kernels and spend some time reading python scikit learn book.
+
+**Thoughts** : Scikit learn book would be fun to read
+
+**Link of Work:** NA
+
