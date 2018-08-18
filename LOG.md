@@ -358,7 +358,7 @@
 **Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
 
 
-## Day 39 : Aug 16 , 2018
+## Day 38 : Aug 16 , 2018
 
 **Today's Progress** : Added some features to lightGBM
 
@@ -367,7 +367,7 @@
 **Link of Work:** will post later.
 
 
-## Day 39 : Aug 16 , 2018
+## Day 39 : Aug 17 , 2018
 
 **Today's Progress** : Play with other person's kernels
 
