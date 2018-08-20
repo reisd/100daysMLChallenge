@@ -384,3 +384,11 @@
 
 **Link of Work:** NA
 
+
+## Day 40 : Aug 18 , 2018
+
+**Today's Progress** : reading python scikit learn book.
+
+**Thoughts** : split test/train data method is too complicated in this book
+
+**Link of Work:** NA
