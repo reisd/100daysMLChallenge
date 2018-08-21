@@ -385,7 +385,7 @@
 **Link of Work:** NA
 
 
-## Day 40 : Aug 18 , 2018
+## Day 41 : Aug 18 , 2018
 
 **Today's Progress** : reading python scikit learn book.
 
@@ -394,7 +394,7 @@
 **Link of Work:** NA
 
 
-## Day 40 : Aug 19 , 2018
+## Day 42 : Aug 19 , 2018
 
 **Today's Progress** : workingon python scikit learn book exercises - worked on data preprocessing, visualization.
 
