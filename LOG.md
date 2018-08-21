@@ -392,3 +392,12 @@
 **Thoughts** : split test/train data method is too complicated in this book
 
 **Link of Work:** NA
+
+
+## Day 40 : Aug 19 , 2018
+
+**Today's Progress** : workingon python scikit learn book exercises - worked on data preprocessing, visualization.
+
+**Thoughts** : I can speed up on the data preprocessing since I learned those in Kaggle.
+
+**Link of Work:** NA
