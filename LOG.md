@@ -413,3 +413,10 @@
 **Link of Work:** Later
 
 
+## Day 44 : Aug 22 , 2018
+
+**Today's Progress** : Keep working sklearn book - manually create cross validation, start Chap 3-classification
+
+**Thoughts** : Finally know how to write cross validation code from the scratch
+
+**Link of Work:** Later
