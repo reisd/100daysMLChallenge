@@ -385,7 +385,7 @@
 **Link of Work:** NA
 
 
-## Day 41 : Aug 18 , 2018
+## Day 41 : Aug 19 , 2018
 
 **Today's Progress** : reading python scikit learn book.
 
@@ -394,10 +394,22 @@
 **Link of Work:** NA
 
 
-## Day 42 : Aug 19 , 2018
+## Day 42 : Aug 20 , 2018
 
 **Today's Progress** : workingon python scikit learn book exercises - worked on data preprocessing, visualization.
 
 **Thoughts** : I can speed up on the data preprocessing since I learned those in Kaggle.
 
 **Link of Work:** NA
+
+
+
+## Day 43 : Aug 21 , 2018
+
+**Today's Progress** : Keep working sklearn book
+
+**Thoughts** : pipeline is pretty cool!
+
+**Link of Work:** Later
+
+
