@@ -420,3 +420,12 @@
 **Thoughts** : Finally know how to write cross validation code from the scratch
 
 **Link of Work:** Later
+
+
+## Day 45 : Aug 23 , 2018
+
+**Today's Progress** : Keep working sklearn book - learned precision/recall and ROC curves
+
+**Thoughts** : Validation method depends on the types of problems!
+
+**Link of Work:** Later
