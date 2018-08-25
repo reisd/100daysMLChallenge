@@ -429,3 +429,12 @@
 **Thoughts** : Validation method depends on the types of problems!
 
 **Link of Work:** Later
+
+
+## Day 46 : Aug 24 , 2018
+
+**Today's Progress** : Keep working sklearn book - learned Batch Gradient descent and Stochastic Gradient Descent
+
+**Thoughts** : Finally figured out SGD.
+
+**Link of Work:** Later
