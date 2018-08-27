@@ -364,7 +364,7 @@
 
 **Thoughts** : Need to understand data pretty well...
 
-**Link of Work:** will post later.
+**Link of Work:** [Home Credit Lightgbm](https://github.com/reisd/100daysMLChallenge/blob/master/Day%2032-37%20LightGBM/LightGBM.ipynb)
 
 
 ## Day 39 : Aug 17 , 2018
@@ -436,5 +436,23 @@
 **Today's Progress** : Keep working sklearn book - learned Batch Gradient descent and Stochastic Gradient Descent
 
 **Thoughts** : Finally figured out SGD.
+
+**Link of Work:** Later
+
+
+## Day 47 : Aug 25 , 2018
+
+**Today's Progress** : Keep working sklearn book - reviewed SVM, started to learn decision trees
+
+**Thoughts** : Hi SVM again!
+
+**Link of Work:** Later
+
+
+## Day 48 : Aug 26 , 2018
+
+**Today's Progress** : Keep working sklearn book - Finished decision trees
+
+**Thoughts** : Decision tree is awesome but instable.
 
 **Link of Work:** Later
