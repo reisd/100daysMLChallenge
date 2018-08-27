@@ -410,7 +410,7 @@
 
 **Thoughts** : pipeline is pretty cool!
 
-**Link of Work:** Later
+**Link of Work:** [Chap 4-7](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2043-48%20Sklearn%20book%20Chap%204-6)
 
 
 ## Day 44 : Aug 22 , 2018
@@ -419,7 +419,7 @@
 
 **Thoughts** : Finally know how to write cross validation code from the scratch
 
-**Link of Work:** Later
+**Link of Work:** [Chap 4-7](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2043-48%20Sklearn%20book%20Chap%204-6)
 
 
 ## Day 45 : Aug 23 , 2018
@@ -428,7 +428,7 @@
 
 **Thoughts** : Validation method depends on the types of problems!
 
-**Link of Work:** Later
+**Link of Work:** [Chap 4-7](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2043-48%20Sklearn%20book%20Chap%204-6)
 
 
 ## Day 46 : Aug 24 , 2018
@@ -437,7 +437,7 @@
 
 **Thoughts** : Finally figured out SGD.
 
-**Link of Work:** Later
+**Link of Work:** [Chap 4-7](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2043-48%20Sklearn%20book%20Chap%204-6)
 
 
 ## Day 47 : Aug 25 , 2018
@@ -446,7 +446,7 @@
 
 **Thoughts** : Hi SVM again!
 
-**Link of Work:** Later
+**Link of Work:** [Chap 4-7](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2043-48%20Sklearn%20book%20Chap%204-6)
 
 
 ## Day 48 : Aug 26 , 2018
@@ -455,4 +455,4 @@
 
 **Thoughts** : Decision tree is awesome but instable.
 
-**Link of Work:** Later
+**Link of Work:** [Chap 4-7](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2043-48%20Sklearn%20book%20Chap%204-6)
