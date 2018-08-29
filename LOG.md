@@ -456,3 +456,23 @@
 **Thoughts** : Decision tree is awesome but instable.
 
 **Link of Work:** [Chap 4-7](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2043-48%20Sklearn%20book%20Chap%204-6)
+
+
+
+## Day 49 : Aug 27 , 2018
+
+**Today's Progress** : Keep working sklearn book - Finished Ensembling
+
+**Thoughts** : Ensembling is interesting!!
+
+**Link of Work:** NA
+
+
+## Day 50 : Aug 28 , 2018
+
+**Today's Progress** : Keep working sklearn book - Finished Stacking
+
+**Thoughts** : Stacking is cool!
+
+**Link of Work:** NA
+
