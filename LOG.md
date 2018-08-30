@@ -476,3 +476,12 @@
 
 **Link of Work:** NA
 
+
+
+## Day 51 : Aug 29 , 2018
+
+**Today's Progress** : Spent sometime reading the book about math under the decision tree and looked for next kaggle projects
+
+**Thoughts** : Excited to start to work on a new kaggle project!
+
+**Link of Work:** NA
