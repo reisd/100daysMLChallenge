@@ -485,3 +485,12 @@
 **Thoughts** : Excited to start to work on a new kaggle project!
 
 **Link of Work:** NA
+
+
+## Day 52 : Aug 30 , 2018
+
+**Today's Progress** : Kaggle cooking project, did some EDA
+
+**Thoughts** : Seaborn is really powerful!
+
+**Link of Work:** NA
