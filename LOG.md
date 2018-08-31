@@ -491,6 +491,6 @@
 
 **Today's Progress** : Kaggle cooking project, did some EDA
 
-**Thoughts** : Seaborn is really powerful!
+**Thoughts** : It is quite challenging to work on kaggle from scratch by myself. I have to look at the other people's kernels to get some insights.
 
-**Link of Work:** NA
+**Link of Work:** Later
