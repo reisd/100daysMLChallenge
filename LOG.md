@@ -494,3 +494,12 @@
 **Thoughts** : It is quite challenging to work on kaggle from scratch by myself. I have to look at the other people's kernels to get some insights.
 
 **Link of Work:** Later
+
+
+## Day 53 : Aug 31 , 2018
+
+**Today's Progress** : Kaggle cooking project, did EDA and data preprocessing
+
+**Thoughts** : Debugging the code for a long time and I used the wrong list...
+
+**Link of Work:** Later
