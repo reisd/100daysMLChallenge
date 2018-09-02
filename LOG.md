@@ -503,3 +503,13 @@
 **Thoughts** : Debugging the code for a long time and I used the wrong list...
 
 **Link of Work:** Later
+
+
+
+## Day 54 : Sep 1 , 2018
+
+**Today's Progress** : Kaggle cooking project, did tokenization and ngram
+
+**Thoughts** : should have a better way to ngram in this project
+
+**Link of Work:** Later
