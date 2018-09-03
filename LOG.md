@@ -513,3 +513,12 @@
 **Thoughts** : should have a better way to ngram in this project
 
 **Link of Work:** Later
+
+
+## Day 55 : Sep 1 , 2018
+
+**Today's Progress** : Kaggle cooking project - logistics regression
+
+**Thoughts** : I need to focus more on it.
+
+**Link of Work:** Later
