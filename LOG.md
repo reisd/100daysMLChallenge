@@ -515,7 +515,7 @@
 **Link of Work:** Later
 
 
-## Day 55 : Sep 1 , 2018
+## Day 55 : Sep 2 , 2018
 
 **Today's Progress** : Kaggle cooking project - logistics regression
 
