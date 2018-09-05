@@ -522,3 +522,21 @@
 **Thoughts** : I need to focus more on it.
 
 **Link of Work:** Later
+
+
+## Day 56 : Sep 3 , 2018
+
+**Today's Progress** : Kaggle cooking project - tfidf
+
+**Thoughts** : kinda forgot how to use tfidf, good refresh
+
+**Link of Work:** Later
+
+
+## Day 57 : Sep 4 , 2018
+
+**Today's Progress** : Kaggle cooking project - use SVC to train the model
+
+**Thoughts** : Surprised to know SVC is the best mdoel... so far
+
+**Link of Work:** Later
