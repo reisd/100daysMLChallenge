@@ -540,3 +540,12 @@
 **Thoughts** : Surprised to know SVC is the best mdoel... so far
 
 **Link of Work:** Later
+
+
+## Day 57 : Sep 5 , 2018
+
+**Today's Progress** : Kaggle cooking project - TFIDF
+
+**Thoughts** : Read a paper about SVC and TFIDF.
+
+**Link of Work:** Later
