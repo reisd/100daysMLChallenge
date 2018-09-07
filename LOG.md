@@ -493,7 +493,7 @@
 
 **Thoughts** : It is quite challenging to work on kaggle from scratch by myself. I have to look at the other people's kernels to get some insights.
 
-**Link of Work:** Later
+**Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
 
 
 ## Day 53 : Aug 31 , 2018
@@ -502,7 +502,7 @@
 
 **Thoughts** : Debugging the code for a long time and I used the wrong list...
 
-**Link of Work:** Later
+**Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
 
 
 
@@ -512,7 +512,7 @@
 
 **Thoughts** : should have a better way to ngram in this project
 
-**Link of Work:** Later
+**Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
 
 
 ## Day 55 : Sep 2 , 2018
@@ -521,7 +521,7 @@
 
 **Thoughts** : I need to focus more on it.
 
-**Link of Work:** Later
+**Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
 
 
 ## Day 56 : Sep 3 , 2018
@@ -530,7 +530,7 @@
 
 **Thoughts** : kinda forgot how to use tfidf, good refresh
 
-**Link of Work:** Later
+**Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
 
 
 ## Day 57 : Sep 4 , 2018
@@ -539,13 +539,22 @@
 
 **Thoughts** : Surprised to know SVC is the best mdoel... so far
 
-**Link of Work:** Later
+**Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
 
 
-## Day 57 : Sep 5 , 2018
+## Day 58 : Sep 5 , 2018
 
-**Today's Progress** : Kaggle cooking project - TFIDF
+**Today's Progress** : Kaggle cooking project - TFIDF .Read a paper about SVC and TFIDF.
 
-**Thoughts** : Read a paper about SVC and TFIDF.
+**Thoughts** : I should study some math
 
-**Link of Work:** Later
+**Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
+
+
+## Day 59 : Sep 6 , 2018
+
+**Today's Progress** : Did some research on tfidf.fit_transform and transform and build the SVM model
+
+**Thoughts** : How should I find the right parameters?
+
+**Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
