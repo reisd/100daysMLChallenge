@@ -558,3 +558,21 @@
 **Thoughts** : How should I find the right parameters?
 
 **Link of Work:** [Kaggle Cooking project](https://github.com/reisd/100daysMLChallenge/tree/master/Day%2052-59)
+
+
+## Day 60 : Sep 7 , 2018
+
+**Today's Progress** : SVM in depth
+
+**Thoughts** : I need to spend more time in each and every ML algorithm and master it.
+
+**Link of Work:** Evernote notebook
+
+
+## Day 59 : Sep 8 , 2018
+
+**Today's Progress** : SVM in depth
+
+**Thoughts** : Finally figure out why we need to use Kernel instead of using polynomial transformer 
+
+**Link of Work:** Evernote notebook
