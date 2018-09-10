@@ -576,3 +576,12 @@
 **Thoughts** : Finally figure out why we need to use Kernel instead of using polynomial transformer 
 
 **Link of Work:** Evernote notebook
+
+
+## Day 60 : Sep 9 , 2018
+
+**Today's Progress** : SVM in depth 2
+
+**Thoughts** : Need to learn math/linear algebra... 
+
+**Link of Work:** Evernote notebook
