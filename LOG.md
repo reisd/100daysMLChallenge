@@ -585,3 +585,12 @@
 **Thoughts** : Need to learn math/linear algebra... 
 
 **Link of Work:** Evernote notebook
+
+
+## Day 61 : Sep 10 , 2018
+
+**Today's Progress** : SVM in depth - did exercises
+
+**Thoughts** : I really need to work on this in the morning.
+
+**Link of Work:** Evernote notebook
