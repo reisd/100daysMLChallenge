@@ -594,3 +594,13 @@
 **Thoughts** : I really need to work on this in the morning.
 
 **Link of Work:** Evernote notebook
+
+
+## Day 62 : Sep 11 , 2018
+
+**Today's Progress** : SVM in depth - worked on MNIST
+
+**Thoughts** : start from the fundamentals!
+
+**Link of Work:** Evernote notebook
+
