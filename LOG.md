@@ -604,3 +604,13 @@
 
 **Link of Work:** Evernote notebook
 
+
+
+## Day 62 for a week :( : Sep 12-17 , 2018
+
+**Today's Progress** : To be honest, I was crazily busy with my several projects for personal and work for last two weeks. And I recently traveled to South Korea and I was not able to continue my ML challenge for a week but NO excuse. So I decided to give myself another challenge to work on ML for 2 hours everyday instead of 1 to make up the 1 week's loss.
+
+**Thoughts** : I'll be back soon with more amazing work 
+
+**Link of Work:** from the bottom of my heart
+
