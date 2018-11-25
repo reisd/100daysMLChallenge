@@ -606,11 +606,11 @@
 
 
 
-## Day 62 for a week :( : Sep 12-17 , 2018
+## Sep 12th - Nov 25th , 2018
 
-**Today's Progress** : To be honest, I was crazily busy with my several projects for personal and work for last two weeks. And I recently traveled to South Korea and I was not able to continue my ML challenge for a week but NO excuse. So I decided to give myself another challenge to work on ML for 2 hours everyday instead of 1 to make up the 1 week's loss.
+**Today's Progress** : To be honest, I was crazily busy working on my several personal projects and traveling to South Korea and China last two and half months. So I was not able to continue my ML challenge for that period of time but NO excuse and I will continue to work on the challenges from Nov 26th. My goal is work on ML projects and courses two hours a day outside of 9 hour work.
 
 **Thoughts** : I'll be back soon with more amazing work 
 
-**Link of Work:** from the bottom of my heart
+**Link of Work:** 
 
