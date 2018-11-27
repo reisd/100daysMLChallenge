@@ -614,3 +614,12 @@
 
 **Link of Work:** 
 
+
+
+## Day 63 : Nov 26 , 2018
+
+**Today's Progress** : Looked at kaggle kernels.
+
+**Thoughts** : I want to implement one of top voted kernels this week.
+
+**Link of Work:** N/A
